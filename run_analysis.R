@@ -1,5 +1,5 @@
+## Installing and loading "reshape2" package
 install.packages("reshape")
-
 library(reshape2)
 
 projectfile <- "getdata_dataset.zip"
